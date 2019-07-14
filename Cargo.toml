@@ -1,0 +1,11 @@
+[package]
+name = "quickjs-rs"
+version = "0.1.0"
+authors = ["llgoer <llgoer@github.com>"]
+edition = "2018"
+repository = "https://github.com/quickjs-zh/quickjs-rs"
+homepage = "https://bellard.org/quickjs/"
+documentation = "https://github.com/quickjs-zh/QuickJS"
+description = "Rust bindings to Fabrice Bellards QuickJS Javascript Engine"
+
+[dependencies]
